@@ -208,3 +208,10 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/Core-V4-creator-join/main/Core%20V4%20creator%20join"))();
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "chat bypasser",
+   Callback = function()
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/vqmpjay/scripts/main/vadriftsbyp'),true))()
+   end,
+})
