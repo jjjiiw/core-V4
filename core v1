@@ -160,6 +160,7 @@ wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
 game.Players:Chat("size me 10")
+wait (0.1)
 game.Players:Chat("h outcrashing rookies")
    end,
 })
