@@ -209,6 +209,9 @@ local Button = Tab:CreateButton({
    end,
 })
 
+local Tab = Window:CreateTab("good scripts", 4483362458) -- Title, Image
+local Section = Tab:CreateSection("good scripts")
+
 local Button = Tab:CreateButton({
    Name = "chat bypasser",
    Callback = function()
