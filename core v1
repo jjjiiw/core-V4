@@ -87,6 +87,8 @@ local Button = Tab:CreateButton({
       game.Players:Chat("ff me ")
       wait (0.1)
       game.Players:Chat("name me [AFK]")
+      wait(7.9)
+      game.Players:chat("reset me")
    end,
 })
 
