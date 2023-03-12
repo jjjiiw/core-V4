@@ -60,37 +60,24 @@ local Button = Tab:CreateButton({
 })
 
 local Button = Tab:CreateButton({
-   Name = "all pads",-- made by me
+   Name = "tp to pad",-- made by me
    Callback = function()
-   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-7.5861907, 8.62999058, 93.6340866, -0.999717534, -1.48830601e-08, -0.0237666089, -1.5404332e-08, 1, 2.17498553e-08, 0.0237666089, 2.21098198e-08, -0.999717534)
-  wait(0.1)
-  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-13.1131849, 8.6299963, 94.4018631, -0.99985683, -1.11061409e-08, 0.0169193186, -1.00416582e-08, 1, 6.30001296e-08, -0.0169193186, 6.28212149e-08, -0.99985683")
-  wait(0.1)
-  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-16.2662277, 8.6299963, 93.7998657, -0.999365807, 9.99461625e-10, -0.0356094725, 1.98272265e-09, 1, -2.75770304e-08, 0.0356094725, -2.76301435e-08, -0.999365807")
-  wait(0.1)
-  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-20.367094, 8.6299963, 94.4562759, -0.89208895, -2.34585009e-08, -0.451859832, 2.04893631e-08, 1, -9.23667756e-08, 0.451859832, -9.16576965e-08, -0.89208895")
-  wait(0.1)
-  game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-28.6791058, 9.02999687, 95.0980377, -0.998936534, 1.50543258e-08, -0.046105925, 1.44821328e-08, 1, 1.27444419e-08, 0.046105925, 1.20631771e-08, -0.998936534")
-  wait(0.1)
-  game.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-33.1306953, 8.6299963, 94.1659393, -0.983604848, -9.0673943e-08, 0.180337161, -9.21440559e-08, 1, 2.25154922e-10, -0.180337161, -1.63955338e-08, -0.983604848")
-  wait(0.1)
-  game.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new("-40.4457054, 8.6299963, 93.8388062, -0.986054301, 1.71051013e-08, 0.166423976, 7.24044691e-09, 1, -5.98809606e-08, -0.166423976, -5.78408965e-08, -0.986054301")
-  wait(0.1)
-  game.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(" -44.914341, 9.02999687, 95.0678253, -0.990845501, 9.8575903e-08, 0.135000736, 1.02890219e-07, 1, 2.49806416e-08, -0.135000736, 3.86422094e-08, -0.990845501")
+      game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-24.9244595, 8.6299963, 94.7119522, 0.996790409, -2.7101656e-08, -0.0800554454, 2.95785796e-08, 1, 2.97542435e-08, 0.0800554454, -3.20266693e-08, 0.996790409)
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat("h Core V4 loaded made by inyuhbhutt")
+      game.Players:Chat ("h \n \n \n  Core V4: CoreV4 got executed made by inyuhbhutt \n \n \n")
+
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "moveregen",
    Callback = function()
-      
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/move%20regen%20pad%20KAH"))();
    end,
 })
 
