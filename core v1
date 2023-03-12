@@ -218,3 +218,16 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/ip-grabber/main/IP%20GRABBER"))();
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "unpunish me",
+   Callback = function()
+   game.Players:Chat("refresh me,me,me,me,me,me")
+wait (0.1)
+game.Players:Chat(":refresh me,me,me,me,me,me")
+wait (0.1)
+game.Players:Chat(":refresh me,me,me,me,me,me")
+wait (0.1)
+game.Players:Chat(":refresh me,me,me,me,me,me")
+   end,
+})
