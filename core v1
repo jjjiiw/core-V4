@@ -231,3 +231,12 @@ wait (0.1)
 game.Players:Chat(":refresh me,me,me,me,me,me")
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "tp to pad in anyway",
+   Callback = function()
+   part = Script.Parent
+
+part.Position(-24.9244595, 8.6299963, 94.7119522, 0.996790409, -2.7101656e-08, -0.0800554454, 2.95785796e-08, 1, 2.97542435e-08, 0.0800554454, -3.20266693e-08, 0.996790409)
+   end,
+})
