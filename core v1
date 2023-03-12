@@ -75,9 +75,9 @@ local Button = Tab:CreateButton({
 })
 
 local Button = Tab:CreateButton({
-   Name = "moveregen",
+   Name = "anti-logs",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/move%20regen%20pad%20KAH"))();
+   game.Players:Chat ("h /n /n /n /n /n /n /n /n /n /n /n /n /n Core V4: no logs for you /n /n /n /n /n /n /n /n /n /n /n /n /n ")
    end,
 })
 
@@ -96,5 +96,12 @@ local Button = Tab:CreateButton({
       game.Players:chat("name me [Tabbed out]")
       wait (7.9)
       game.Players:Chat("reset me")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Core v4 joined",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/Core-V4-creator-join/main/Core%20V4%20creator%20join"))();
    end,
 })
