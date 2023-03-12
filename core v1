@@ -1,3 +1,4 @@
+-- owner version
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local Window = Rayfield:CreateWindow({
@@ -182,6 +183,13 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "lagger",
    Callback = function()
-   game.player:Chat("explode others")
+   game.Player:Chat("explode others")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "warning",
+   Callback = function()
+   game.Player:Chat("h the owner of Core v4 is about to crash ")
    end,
 })
