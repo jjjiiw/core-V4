@@ -104,7 +104,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Core v4 joined",
    Callback = function()
-   game.Players:Chat("h Core V4 owner joined (inyuhbhutt)")
+   game.Players:Chat(" h /n /n /n Core V4: owner joined (inyuhbhutt) /n /n /n")
    end,
    })
 
@@ -112,6 +112,31 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "owner left",
    Callback = function()
-   game.Players:Chat("h Core V4 owner has left (inyuhbhutt)")
+   game.Players:Chat(" h /n /n /n Core V4: owner has left (inyuhbhutt)/n /n /n /n ")
+   end,
+})
+
+
+local Tab = Window:CreateTab("owner stuff", 4483362458) -- Title, Image
+local Section = Tab:CreateSection("owner stuff")
+
+local Button = Tab:CreateButton({
+   Name = "owner joined",
+   Callback = function()
+   game.Players:Chat(" h /n /n /n Core V4: owner joined (inyuhbhutt) /n /n /n")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "owner went AFK",
+   Callback = function()
+   game.Players:Chat(" h /n /n /n Core V4 owner went AFK (inyuhbhutt) /n /n /n")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "owner left",
+   Callback = function()
+   game.Players:Chat(" h /n /n /n Core V4: owner has left (inyuhbhutt)/n /n /n /n ")
    end,
 })
