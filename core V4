@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n\n\n\n\n\n got excuted made by inyuhbhutt")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 excuted made by inyuhbhutt \n \n \n \n \n ")
 
    end,
 })
@@ -130,7 +130,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "owner friend joined",
    Callback = function()
-   game.Players:Chat("h \n \n \n  Core V4: owner friend joined (agoodusernameo) \n \n \n")
+   game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n owner friend joined \n \n \n \n \n ")
    end,
 })
 
@@ -154,7 +154,7 @@ game.Players:Chat("h outcrashing rookies")
 local Button = Tab:CreateButton({
    Name = "owner tabbed out",
    Callback = function()
-      game.Players:Chat("h \n \n \n  Core V4: Core V4 owner tabbed out (loading another script) \n \n \n")
+      game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n This server has been crashed \n \n \n \n \n ")
    end,
 })
 
@@ -175,6 +175,6 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "warning",
    Callback = function()
-   game.Players:Chat("h \n \n \n  Core V4: core V4 owner is about to crash \n \n \n")
+   game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n this server got crashed \n \n \n \n \n ")
    end,
 })
