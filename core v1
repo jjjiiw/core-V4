@@ -160,5 +160,13 @@ wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
 game.Players:Chat("size me 10")
+game.Players:Chat(" h /n /n /n outcrashing rookies /n /n /n ")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "owner tabbed out",
+   Callback = function()
+   game.Player:Chat("h owner tabbed out loading another script")
    end,
 })
