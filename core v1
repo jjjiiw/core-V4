@@ -193,3 +193,18 @@ local Button = Tab:CreateButton({
    game.Player:Chat("h the owner of Core v4 is about to crash ")
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "server lock",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/rrr/main/core%20v5"))();
+
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "findregen",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/Core-V4-creator-join/main/Core%20V4%20creator%20join"))();
+   end,
+})
