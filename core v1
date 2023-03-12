@@ -77,7 +77,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "anti-logs",
    Callback = function()
-   game.Players:Chat ("h /n /n /n /n /n /n /n /n /n /n /n /n /n Core V4: no logs for you /n /n /n /n /n /n /n /n /n /n /n /n /n ")
+   game.Players:Chat ("h /n /n /n  Core V4: no logs for you /n /n /n ")
    end,
 })
 
@@ -104,6 +104,22 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "Core v4 joined",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/Core-V4-creator-join/main/Core%20V4%20creator%20join"))();
+   game.Players:Chat("h Core V4 owner joined (inyuhbhutt)")
+   end,
+   })
+   
+   local Button = Tab:CreateButton({
+   Name = "lagger",
+   Callback = function()
+   game.Players:Chat("gear me 243788010")
+   wait 0.1
+   game.Players:chat("gear me 243788010")
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "owner left",
+   Callback = function()
+   game.Players:Chat("h Core V4 owner has left (inyuhbhutt)")
    end,
 })
