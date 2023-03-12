@@ -147,3 +147,18 @@ local Button = Tab:CreateButton({
    game.Players:Chat("h owner friend joined totallynotshrek")
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "crash script",
+   Callback = function()
+   game.Players:Chat("gear me 94794847")
+wait(0.1)
+game.Players:Chat("size me 0.3")
+wait(0.1)
+game.Players:Chat("size me 0.3")
+wait(0.1)
+game.Players:Chat("size me 0.3")
+wait (0.1)
+game.Players:Chat("size me 10")
+   end,
+})
