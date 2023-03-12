@@ -107,15 +107,7 @@ local Button = Tab:CreateButton({
    game.Players:Chat("h Core V4 owner joined (inyuhbhutt)")
    end,
    })
-   
-   local Button = Tab:CreateButton({
-   Name = "lagger",
-   Callback = function()
-   game.Players:Chat("gear me 243788010")
-   wait 0.1
-   game.Players:chat("gear me 243788010")
-   end,
-})
+
 
 local Button = Tab:CreateButton({
    Name = "owner left",
