@@ -152,9 +152,9 @@ game.Players:Chat("h outcrashing rookies")
 })
 
 local Button = Tab:CreateButton({
-   Name = "owner tabbed out",
+   Name = "slicrash",
    Callback = function()
-      game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n This server has been crashed \n \n \n \n \n ")
+      game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n this server has been crashed \n \n \n \n \n ")
    end,
 })
 
@@ -175,6 +175,6 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "warning",
    Callback = function()
-   game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n this server got crashed \n \n \n \n \n ")
+   game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n owner tabbed out (loading another script) \n \n \n \n \n ")
    end,
 })
