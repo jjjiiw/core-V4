@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed 😎 no it's private don' ask for it \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed no it's private don' ask for it \n \n \n \n \n ")
 
    end,
 })
