@@ -138,16 +138,16 @@ local Button = Tab:CreateButton({
    Name = "crash script",
    Callback = function()
    game.Players:Chat("gear me 94794847")
-wait(0.9)
-game.Players:Chat("size me 0.3")
 wait(0.1)
-game.Players:Chat("size me 0.3")
+game.Players:Chat("gear me 94794847")
+wait(0.1)
+game.Players:Chat("gear me 94794847")
 wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
 game.Players:Chat("size me 10")
 wait (0.1)
-game.Players:Chat("h outcrashing rookies")
+game.Players:Chat("h /n /n /n /n/n /n /noutcrashing rookies /n /n /n")
    end,
 })
 
