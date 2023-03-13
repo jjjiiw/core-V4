@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n n:erd V4 exceuted no you cant get it idk why ppl want it so much \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n Core V4 exceuted no you cant get it idk why ppl want it so much \n \n \n \n \n ")
 
    end,
 })
@@ -137,17 +137,17 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "crash script",
    Callback = function()
-   game.Players:Chat("gear me 94794847")
+   game.Players:Chat("gear me 0000000000000000000000000000000000000000000000000000000000000000000000000094794847")
 wait(0.1)
-game.Players:Chat("gear me 94794847")
-wait(0.1)
-game.Players:Chat("size me 0.3")
+game.Players:Chat("")
 wait(0.1)
 game.Players:Chat("size me 0.3")
-wait (0.1)
+wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
-game.Players:Chat("h /n /n /n /n /n /n /noutcrashing rookies /n /n /n")
+game.Players:Chat("size me 0.3")
+wait (0.1)
+game.Players:Chat("h /n /n /n /n /n /n /noutcrashing rookies /n /n /n /n /n /n")
    end,
 })
 
@@ -224,13 +224,14 @@ local Button = Tab:CreateButton({
    game.Players:Chat("unpunish others")
    wait(0.1)
    game.Players:Chat("gear others 25741198")
+   game.Players:chat("setspeed others 9e9")
 end,
 })
 
 local Button = Tab:CreateButton({
    Name = "rachel",
    Callback = function()
-   game.Players:Chat("rachel is a Shìtty kid")
+   game.Players:Chat("rachel is so mean ):")
    end,
 })
 
