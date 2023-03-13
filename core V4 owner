@@ -32,7 +32,7 @@ local Section = Tab:CreateSection("Main")
 
 
 Rayfield:Notify({
-   Title = "Core V4"
+   Title = "Core V4",
    Content = "Core V4 loaded made by imyuhbhutt",
    Duration = 6.5,
    Image = 4483362458,
@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed no it's private don' ask for it \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 excuted made by inyuhbhutt \n \n \n \n \n ")
 
    end,
 })
@@ -78,7 +78,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "anti-logs",
    Callback = function()
-   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n/n/n/n/n/n/nn//n/n/n/nn//nn//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n/n/n/n/n/nn/n//n/nn/n/n/n/n/n/n/n/n//nn//n/n/n/nn/n//n/nn/n//n/n/n no logs for you")
+   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n//n/n/n/n/n/n/n/n/n/n/n/n//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n no logs for you")
    end,
 })
 
@@ -116,7 +116,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "owner went AFK",
    Callback = function()
-   game.Players:Chat("h Nerd V4 owner went AFK")
+   game.Players:Chat("h \n \n \n  Core V4: Core V4 owner went AFK (inyuhbhutt) \n \n \n")
    end,
 })
 
@@ -137,24 +137,24 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "crash script",
    Callback = function()
-   game.Players:Chat("gear me 0000000000000000000000000000000000000000000000000000000000000000000000000094794847")
-wait(0.1)
-game.Players:Chat("")
-wait(0.1)
+   game.Players:Chat("gear me 94794847")
+wait(0.9)
 game.Players:Chat("size me 0.3")
 wait(0.1)
 game.Players:Chat("size me 0.3")
-wait (0.1)
+wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
-game.Players:Chat("h /n /n /n /n /n /n /noutcrashing rookies /n /n /n /n /n /n")
+game.Players:Chat("size me 10")
+wait (0.1)
+game.Players:Chat("h outcrashing rookies")
    end,
 })
 
 local Button = Tab:CreateButton({
-   Name = "slicrash",
+   Name = "owner tabbed out",
    Callback = function()
-      game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n this server has been crashed \n \n \n \n \n ")
+      game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n This server has been crashed \n \n \n \n \n ")
    end,
 })
 
@@ -173,58 +173,59 @@ local Button = Tab:CreateButton({
 })
 
 local Button = Tab:CreateButton({
-   Name = "warning",
+   Name = "lockdown",
    Callback = function()
-   game.Players:Chat("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n owner tabbed out (loading another script) \n \n \n \n \n ")
-   end,
-})
-
-local Tab = Window:CreateTab("Lockdown", 4483362458) -- Title, Image
-local Section = Tab:CreateSection("Lockdown")
-
-local Button = Tab:CreateButton({
-   Name = "LockDown/stop crashing",
-   Callback = function()
-   game.Players:Chat("h LockDown is now on to stop kholsnoobcrasher or crashes from blood")
-   wait(0.1)
    game.Players:Chat("explode others")
-   wait(0.1)
-   game.Players:chat("respawn others")
-   wait(0.1)
-   game.Players:Chat("punish others")
-   wait(0.1)
-   game.Players:Chat("unpunish others")
+   wait (0.1)
+   game.Players:Chat("respawn others")
    wait(0.1)
    game.Players:Chat("jail others")
    wait(0.1)
-   game.Players:Chat("gear others 243788010")
-   wait(0.1)
-   game.Players:Chat("ungear others")
-   wait(0.1)
-   game.Players:Chat("punish others")
-   wait(0.1)
-   game.Players:Chat("jail/others")
-   wait(0.1)
-   game.Players:Chat("unpunish others")
-   wait(0.1)
-   game.Players:Chat("blind others")
-   wait(0.1)
-   game.Players:Chat("unblind others")
-   wait(0.1)
    game.Players:Chat("skydive others")
    wait(0.1)
    game.Players:Chat("skydive others")
    wait(0.1)
    game.Players:Chat("skydive others")
-   wait(0.1)
-   game.Players:Chat("unskydive others")
-   wait(0.1)
-   game.Players:Chat("punish others")
-   wait(0.1)
-   game.Players:Chat("unpunish others")
-   wait(0.1)
-   game.Players:Chat("gear others 25741198")
-   game.Players:chat("h try to bypass my lockdown AHEM kholsnoobcrasher XDDDD")
-end,
-
+   
+   end,
 })
+
+
+Tab:AddButton({
+	Name = "anti-logs",
+	Callback = function()
+      		game.Players:Chat("h /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n /n no logs for you LOL")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "night khols",
+	Callback = function()
+      		loadstring(game:HttpGet('https://gist.githubusercontent.com/ScaleneSoap9803/3828d1ec1bec480b60f41b29e346bb93/raw/6614198753a67ab35d7970b6a8acb6ea9d30ce34/Night%2520Kohls%2520Beta'))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "/c systemuse",
+	Callback = function()
+      		game.Players:Chat("LOL GET A SCRIPT DON"T USE /C system you're just bad")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "night",
+	Callback = function()
+      		game.Players:Chat("time 0")
+            wait(0.1)
+            game.Players:Chat("disco")
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Dark khols",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Kohls%20Admin%20House/DarkKohls/GUI.lua"))()
+  	end    
+})
+
+OrionLib:Init()
