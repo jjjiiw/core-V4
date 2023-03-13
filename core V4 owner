@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n Core V4 exceuted no you cant get it idk why ppl want it so much \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed no you cant get it idk why you will ask \n \n \n \n \n ")
 
    end,
 })
@@ -78,7 +78,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "anti-logs",
    Callback = function()
-   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n no logs for you")
+   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n/n/n/n/n/n/nn//n/n/n/nn//nn//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n/n/n/n/n/nn/n//n/nn/n/n/n/n/n/n/n/n//nn//n/n/n/nn/n//n/nn/n//n/n/n no logs for you")
    end,
 })
 
@@ -225,6 +225,8 @@ local Button = Tab:CreateButton({
    wait(0.1)
    game.Players:Chat("gear others 25741198")
    game.Players:chat("setspeed others 9e9")
+   wait(0.1)
+   game.Players:Chat("h try to bypass my lockdown AHEM kholsnoobcrasher XD")
 end,
 })
 
@@ -234,11 +236,3 @@ local Button = Tab:CreateButton({
    game.Players:Chat("rachel is so mean ):")
    end,
 })
-
-local Button = Tab:CreateButton({
-   Name = "anti-crash",
-   Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/anti-crash"))();
-   end,
-})
-
