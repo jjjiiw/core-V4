@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed no you cant get it idk why you will ask \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Core V4 executed 😎 no it's private don' ask for it \n \n \n \n \n ")
 
    end,
 })
@@ -185,7 +185,7 @@ local Section = Tab:CreateSection("Lockdown")
 local Button = Tab:CreateButton({
    Name = "LockDown/stop crashing",
    Callback = function()
-   game.Players:Chat("h LockDown is now on to stop crashes/abu")
+   game.Players:Chat("h LockDown is now on to stop kholsnoobcrasher or crashes from blood")
    wait(0.1)
    game.Players:Chat("explode others")
    wait(0.1)
@@ -235,6 +235,6 @@ game.Players:Chat("music 134314368")
 local Button = Tab:CreateButton({
    Name = "rachel",
    Callback = function()
-   game.Players:Chat("rachel is so mean ):")
+   game.Players:Chat("rachel is so mean")
    end,
 })
