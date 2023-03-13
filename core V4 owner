@@ -78,7 +78,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "anti-logs",
    Callback = function()
-   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n no logs for you")
+   game.Players:Chat ("h \n\n\n\n\n\n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/nn/n/n//n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n no logs for you")
    end,
 })
 
@@ -141,11 +141,11 @@ local Button = Tab:CreateButton({
 wait(0.1)
 game.Players:Chat("gear me 94794847")
 wait(0.1)
-game.Players:Chat("gear me 94794847")
+game.Players:Chat("size me 0.3")
 wait(0.1)
 game.Players:Chat("size me 0.3")
 wait (0.1)
-game.Players:Chat("size me 10")
+game.Players:Chat("size me 0.3")
 wait (0.1)
 game.Players:Chat("h /n /n /n /n /n /n /noutcrashing rookies /n /n /n")
    end,
@@ -207,14 +207,30 @@ local Button = Tab:CreateButton({
    wait(0.1)
    game.Players:Chat("unpunish others")
    wait(0.1)
-   game.Players:Chat("gear me 243788010")
+   game.Players:Chat("blind others")
+   wait(0.1)
+   game.Players:Chat("unblind others")
+   wait(0.1)
+   game.Players:Chat("skydive others")
+   wait(0.1)
+   game.Players:Chat("skydive others")
+   wait(0.1)
+   game.Players:Chat("skydive others")
+   wait(0.1)
+   game.Players:Chat("unskydive others")
+   wait(0.1)
+   game.Players:Chat("punish others")
+   wait(0.1)
+   game.Players:Chat("unpunish others")
+   wait(0.1)
+   game.Players:Chat("gear others 25741198")
 end,
 })
 
 local Button = Tab:CreateButton({
-   Name = "perm",
+   Name = "rachel",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/rrr/main/perm"))();
+   game.Players:Chat("rachel is a Shìtty kid")
    end,
 })
 
@@ -224,3 +240,4 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/anti-crash"))();
    end,
 })
+
