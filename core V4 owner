@@ -32,7 +32,7 @@ local Section = Tab:CreateSection("Main")
 
 
 Rayfield:Notify({
-   Title = "Core V4",
+   Title = "Core V4"
    Content = "Core V4 loaded made by imyuhbhutt",
    Duration = 6.5,
    Image = 4483362458,
@@ -224,17 +224,7 @@ local Button = Tab:CreateButton({
    game.Players:Chat("unpunish others")
    wait(0.1)
    game.Players:Chat("gear others 25741198")
-   game.Players:chat("setspeed others 9e9")
-   wait(0.1)
-   game.Players:Chat("h try to bypass my lockdown AHEM kholsnoobcrasher XD")
+   game.Players:chat("h try to bypass my lockdown AHEM kholsnoobcrasher XDDDD")
 end,
-wait(0.1)
-game.Players:Chat("music 134314368")
-})
 
-local Button = Tab:CreateButton({
-   Name = "rachel",
-   Callback = function()
-   game.Players:Chat("h rachel is so mean")
-   end,
 })
