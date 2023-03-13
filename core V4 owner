@@ -116,7 +116,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "owner went AFK",
    Callback = function()
-   game.Players:Chat(h Nerd V4 owner went AFK)
+   game.Players:Chat("h Nerd V4 owner went AFK")
    end,
 })
 
