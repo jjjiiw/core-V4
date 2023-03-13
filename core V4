@@ -190,5 +190,13 @@ local Button = Tab:CreateButton({
    game.Players:Chat("explode others")
    wait(0.1)
    game.Players:chat("respawn others")
+   wait(0.1)
+   game.Players:Chat("punish others")
+   wait(0.1)
+   game.Players:Chat("unpunish others")
+   wait(0.1)
+   game.Players:Chat("jail others")
+   wait(0.1)
+   game.Players:Chat("gear others 243788010")
 end,
 })
