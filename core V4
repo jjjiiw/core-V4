@@ -208,7 +208,6 @@ local Button = Tab:CreateButton({
    game.Players:Chat("unpunish others")
    wait(0.1)
    game.Players:Chat("gear me 243788010")
-   wait(0.1)
 end,
 })
 
@@ -219,12 +218,21 @@ local Button = Tab:CreateButton({
    end,
 })
 
+local Tab = Window:CreateTab("Good Scripts", 4483362458) -- Title, Image
+local Section = Tab:CreateSection("Good scripts")
 
-function noti(text)
-	game.StarterGui:SetCore("SendNotification", {
-		Title = "Core V4"; 
-		Text = text; 
-		Duration = 1;
-	})
-end
-noti("player joined " ..game.Players.LocalPlayer.Name.. " player joined")
+local Button = Tab:CreateButton({
+   Name = "Perm",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/rrr/main/perm"))();
+   end,
+   
+   local Button = Tab:CreateButton({
+   Name = "anti-crash",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/anti-crash"))();
+   end,
+})
+
+
+})
