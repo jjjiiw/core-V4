@@ -212,22 +212,13 @@ end,
 })
 
 local Button = Tab:CreateButton({
-   Name = "kholssploit",
-   Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/f/main/kholsssploy"))();
-   end,
-})
-
-local Tab = Window:CreateTab("Good Scripts", 4483362458) -- Title, Image
-local Section = Tab:CreateSection("Good scripts")
-
-local Button = Tab:CreateButton({
-   Name = "Perm",
+   Name = "perm",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/rrr/main/perm"))();
    end,
-   
-   local Button = Tab:CreateButton({
+})
+
+local Button = Tab:CreateButton({
    Name = "anti-crash",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/move-regen-pad-KAH/main/anti-crash"))();
