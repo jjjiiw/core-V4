@@ -70,7 +70,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
    Name = "gui loaded/credit",
    Callback = function()
-      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Nerd V4 exceuted no you cant get it idk why ppl want it so much \n \n \n \n \n ")
+      game.Players:Chat ("h \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n n:erd V4 exceuted no you cant get it idk why ppl want it so much \n \n \n \n \n ")
 
    end,
 })
