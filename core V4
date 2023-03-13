@@ -198,6 +198,17 @@ local Button = Tab:CreateButton({
    game.Players:Chat("jail others")
    wait(0.1)
    game.Players:Chat("gear others 243788010")
+   wait(0.1)
+   game.Players:Chat("ungear others")
+   wait(0.1)
+   game.Players:Chat("punish others")
+   wait(0.1)
+   game.Players:Chat("jail/others")
+   wait(0.1)
+   game.Players:Chat("unpunish others")
+   wait(0.1)
+   game.Players:Chat("gear me 243788010")
+   wait(0.1)
 end,
 })
 
@@ -207,3 +218,13 @@ local Button = Tab:CreateButton({
    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjjiiw/f/main/kholsssploy"))();
    end,
 })
+
+
+function noti(text)
+	game.StarterGui:SetCore("SendNotification", {
+		Title = "Core V4"; 
+		Text = text; 
+		Duration = 1;
+	})
+end
+noti("player joined " ..game.Players.LocalPlayer.Name.. " player joined")
