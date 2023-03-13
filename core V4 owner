@@ -185,7 +185,7 @@ local Section = Tab:CreateSection("Lockdown")
 local Button = Tab:CreateButton({
    Name = "LockDown/stop crashing",
    Callback = function()
-   game.Players:Chat("h LockDown is now on to stop crashes.")
+   game.Players:Chat("h LockDown is now on to stop crashes/abu")
    wait(0.1)
    game.Players:Chat("explode others")
    wait(0.1)
@@ -228,6 +228,8 @@ local Button = Tab:CreateButton({
    wait(0.1)
    game.Players:Chat("h try to bypass my lockdown AHEM kholsnoobcrasher XD")
 end,
+wait(0.1)
+game.Players:Chat("music 134314368")
 })
 
 local Button = Tab:CreateButton({
