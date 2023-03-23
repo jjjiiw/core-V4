@@ -273,3 +273,24 @@ local Button = Tab:CreateButton({
       loadstring(game:HttpGet("https://raw.githubusercontent.com/SEPOXCRAFT/KohlsCool/main/Scripts/KohlsCoolNewOne.lua", true))() 
    end,
 })
+
+
+
+function checkifplayer(name)
+        local possibleplayers = {}
+        if string.len(name) ~= 0 then
+            name = string.lower(name)
+            for i,v in pairs(game.Players:GetPlayers()) do
+                if string.find(string.lower(v.Name), name) == 1 or string.find(string.lower(v.DisplayName), name) == 1 then
+                    table.insert(possibleplayers,v.Name)
+                end
+            end
+            if #possibleplayers == 0 then
+                return "No player found"
+            elseif #possibleplayers == 1 then
+                return possibleplayers[1]
+            elseif #possibleplayers > 1 then
+                return "Multiple players found"
+            end
+        end
+    end
